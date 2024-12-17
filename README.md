@@ -26,4 +26,4 @@ Puedes descargar mi CV actualizado aquí: [CV_Estefano_Jaque.pdf](https://github
 ## 📬 Contacto  
 - **Correo:** oscar_21_ferb@hotmail.com  
 - **LinkedIn:** [https://www.linkedin.com/in/estefano-oscar-jaque-pe%C3%B1a-678239340](https://www.linkedin.com/in/estefano-oscar-jaque-pe%C3%B1a-678239340)
-- **GitHub:** [https://github.com/tu-usuario](https://github.com/estefanojaque/Portafolio/blob/main/README.md)
+- **GitHub:** [https://github.com/estefanojaque/Portafolio/blob/main/README.md](https://github.com/estefanojaque/Portafolio/blob/main/README.md)
