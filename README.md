@@ -18,7 +18,7 @@ Ingeniero de Software en formación con experiencia en desarrollo web, modelamie
          •	Configuré sign-in/sign-up con IAM para autenticación y gestión segura de usuarios.  
          •	Probé y depuré APIs RESTful con Postman.   
    - Tecnologías: Angular, Java, Spring Boot, PostgreSQL, Firebase, MySQL, Swagger, Postman.
-   - [Ver Proyecto Completo](https://github.com/Horizon-ManageWise)  
+   - [Ver Proyecto Completo](https://github.com/Horizon-ManageWise)   (Repositorio reporte para mas informacion del proyecto y backend y frontend para el código)
 
 2. **Aplicación Web para Venta de Almuerzos – Sabores Cercanos**  
    - Resumen: App que conecta cocineros independientes con consumidores.  
