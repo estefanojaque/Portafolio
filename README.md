@@ -16,7 +16,7 @@ Ingeniero de Software en formación con experiencia en desarrollo web, modelamie
       •	Coordiné al equipo y lideré el despliegue del frontend y backend en Azure.  
       •	Diseñé e implementé el módulo Issues con funcionalidades CRUD completas y listas de eventos.  
       •	Configuré sign-in/sign-up con IAM para autenticación y gestión segura de usuarios.  
-      •	Probé y depuré APIs RESTful con Postman. Tecnologías: Angular, Spring Boot, PostgreSQL, Swagger. Resultados: Incrementó la productividad en la gestión de proyectos.<br>   
+      •	Probé y depuré APIs RESTful con Postman. Tecnologías: Angular, Spring Boot, PostgreSQL, Swagger. Resultados: Incrementó la productividad en la gestión de proyectos.<br>     
    <br>- Tecnologías: Angular, Java, Spring Boot, PostgreSQL, Firebase, MySQL, Swagger, Postman.  
    - [Ver Proyecto Completo](https://github.com/Horizon-ManageWise)  
 
