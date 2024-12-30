@@ -31,7 +31,7 @@ Ingeniero de Software en formación con experiencia en desarrollo web, modelamie
    - [Ver Proyecto Completo](https://github.com/Rampart-SaboresCercanos)  (Repositorio "Reporte" para mas información del proyecto ,y backend, frontend y Landing page para el código)  
 
 ## 📄 Descargar CV  
-Puedes descargar mi CV actualizado aquí: [CV_Estefano_Jaque.pdf](https://github.com/tu-usuario/Portfolio/blob/main/CV_Estefano_Jaque.pdf)  
+Puedes descargar mi CV actualizado aquí: [CV_Estefano_Jaque.pdf](https://drive.google.com/file/d/1btoPMFiBqXPG4PXpjOZc3OBfQJXtWzeN/view?usp=sharing)  
 
 ## 📬 Contacto  
 - **Correo:** oscar_21_ferb@hotmail.com  
