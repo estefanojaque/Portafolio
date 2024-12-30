@@ -22,18 +22,18 @@ Ingeniero de Software en formación con experiencia en desarrollo web, modelamie
 
 2. **Aplicación Web para Venta de Almuerzos – Sabores Cercanos**  
    - Resumen: Plataforma que conecta cocineros independientes con usuarios mediante funcionalidades como pedidos anticipados, publicaciones, y favoritos.
-   - Rol: Líder de equipo.
-      •	Coordiné tareas del equipo y lideré el despliegue del frontend y backend en Azure y Firebase.
-      •	Desarrollé módulos de Recetas y Publicaciones con filtros avanzados y CRUD.
-      •	Implementé autenticación segura con IAM para backend y frontend.
-      •	Utilicé Postman para probar endpoints y depurar APIs RESTful.
-   - Tecnologías: Vue.js, ASP.NET Core, PostgreSQL, Azure,Firebase, Swagger, Postman.
-   - [Ver Proyecto Completo](https://github.com/Rampart-SaboresCercanos)  (Repositorio "Reporte" para mas información del proyecto ,y backend, frontend y Landing page para el código)
+   - Rol: Líder de equipo.   
+      •	Coordiné tareas del equipo y lideré el despliegue del frontend y backend en Azure y Firebase.  
+      •	Desarrollé módulos de Recetas y Publicaciones con filtros avanzados y CRUD.  
+      •	Implementé autenticación segura con IAM para backend y frontend.  
+      •	Utilicé Postman para probar endpoints y depurar APIs RESTful.  
+   - Tecnologías: Vue.js, ASP.NET Core, PostgreSQL, Azure,Firebase, Swagger, Postman.  
+   - [Ver Proyecto Completo](https://github.com/Rampart-SaboresCercanos)  (Repositorio "Reporte" para mas información del proyecto ,y backend, frontend y Landing page para el código)  
 
 ## 📄 Descargar CV  
 Puedes descargar mi CV actualizado aquí: [CV_Estefano_Jaque.pdf](https://github.com/tu-usuario/Portfolio/blob/main/CV_Estefano_Jaque.pdf)  
 
 ## 📬 Contacto  
 - **Correo:** oscar_21_ferb@hotmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/estefano-oscar-jaque-pe%C3%B1a-678239340](https://www.linkedin.com/in/estefano-oscar-jaque-pe%C3%B1a-678239340)
-- **GitHub:** [https://github.com/estefanojaque/Portafolio/blob/main/README.md](https://github.com/estefanojaque/Portafolio/blob/main/README.md)
+- **LinkedIn:** [https://www.linkedin.com/in/estefano-oscar-jaque-pe%C3%B1a-678239340](https://www.linkedin.com/in/estefano-oscar-jaque-pe%C3%B1a-678239340)  
+- **GitHub:** [https://github.com/estefanojaque/Portafolio/blob/main/README.md](https://github.com/estefanojaque/Portafolio/blob/main/README.md)  
