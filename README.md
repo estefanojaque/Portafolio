@@ -51,7 +51,7 @@ Ingeniero de Software en formación (UPC) con posición en el décimo superior. 
    - [🔗 Ver Proyecto](https://github.com/upc-pre-202510-1ASI0732-4438-AventuraPE)  
 
 ## 📄 Descargar CV  
-[📥 CV_Estefano_Jaque.pdf](https://drive.google.com/file/d/1btoPMFiBqXPG4PXpjOZc3OBfQJXtWzeN/view?usp=sharing)  
+[📥 CV_Estefano_Jaque.pdf](https://drive.google.com/file/d/1btoPMFiBqXPG4PXpjOZc3OBfQJXtWzeN/view?usp=sharing](https://drive.google.com/file/d/1wRFsK6XgUpaYvgjAfda2ZBjjaAz_CqxS/view?usp=sharing)  
 
 ## 📬 Contacto  
 - **Correo:** oscar_21_ferb@hotmail.com  
